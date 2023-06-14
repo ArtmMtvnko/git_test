@@ -1,2 +1,2 @@
 # git_test
-Traning by "the ogin progect" cource
+Traning by "the ogin project" cource
